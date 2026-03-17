@@ -140,3 +140,23 @@ Example (Alveolar macrophages):
 ---
 
 ## 📁 Project Structure
+project/
+├── data/
+├── notebooks/
+├── results/
+└── README.md
+
+
+---
+
+## ▶️ How to Run (in bash)
+pip install scanpy squidpy pandas numpy matplotlib
+
+
+## Download dataset from 10x Genomics and run the notebook (in bash):
+jupyter notebook
+
+
+## 👩‍💻 Author
+Elsa Sánchez Fernández
+MSc Data Science – EPFL
