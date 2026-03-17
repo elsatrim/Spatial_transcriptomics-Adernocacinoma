@@ -159,4 +159,3 @@ jupyter notebook
 
 ## 👩‍💻 Author
 Elsa Sánchez Fernández
-MSc Data Science – EPFL
